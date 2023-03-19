@@ -1,0 +1,6 @@
+jack;114;student
+nino;5489898;georgia
+Paul;55548;new_student
+ksu;555;student
+muu;2225566;student
+miss;548636985;girl
